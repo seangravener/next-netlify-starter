@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Building Communities. Connecting People." />
+        <Header title="Starship Creative, llc" />
         <p className="description">
         Building Communities. Connecting People.
         </p>
