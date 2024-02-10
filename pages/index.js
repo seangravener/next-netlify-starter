@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Starship Creative, llc" />
         <p className="description">
-        Building Communities. Connecting People.
+          Connecting People. Building Communities.
         </p>
       </main>
 
